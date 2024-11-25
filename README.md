@@ -1,4 +1,4 @@
-# HR-Analytics-Dashboard
+# Attrition Dashboard
 ## Project Overview
 This project explores the factors driving employee exits from organizations, leveraging a dataset sourced from Kaggle. By examining trends in attrition across various demographics (gender, age, job levels, and departments), it sheds light on key pain points like workplace dissatisfaction, high-pressure roles, and inadequate work-life balance. The analysis highlights areas for improvement, such as mentorship, enriched roles, and transformative training programs, aiming to reduce employee turnover and foster a more engaged workforce.
 
