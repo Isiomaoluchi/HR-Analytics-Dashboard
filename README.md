@@ -8,8 +8,7 @@ This initiative is a stepping stone in understanding the dynamic factors of empl
 This dataset was obtained from Kaggle.
 
 ## Tools
-Power Query
-PowerBi
+Power Query and PowerBi
 
 ## Data cleaning 
 Data cleaning was performed through these steps:
